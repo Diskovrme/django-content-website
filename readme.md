@@ -60,10 +60,10 @@ demo123*
 ## Local development
 
 follow the below steps :
-1. Star the repo: https://github.com/PaulleDemon/Django-website-template
+1. Star the repo: https://github.com/Diskovrme/django-content-website
    
 2. Clone the repo
-`git clone https://github.com/thecodewall/homescape-web-platform`
+`git clone https://github.com/Diskovrme/django-content-website`
 
 3. Install python 3.8 or above.
 https://www.python.org/downloads/
